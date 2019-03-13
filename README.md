@@ -1,1 +1,1 @@
-# PSI
+# PSI-Podstawy Sztucznej Inteligencji
